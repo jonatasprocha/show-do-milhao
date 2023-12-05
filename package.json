@@ -1,0 +1,21 @@
+{
+  "name": "show-do-milhao",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonatasprocha/show-do-milhao.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jonatasprocha/show-do-milhao/issues"
+  },
+  "homepage": "https://github.com/jonatasprocha/show-do-milhao#readme"
+}
