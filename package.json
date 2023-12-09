@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/jonatasprocha/show-do-milhao/issues"
   },
-  "homepage": "https://github.com/jonatasprocha/show-do-milhao#readme"
+  "homepage": "https://github.com/jonatasprocha/show-do-milhao#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
 }
